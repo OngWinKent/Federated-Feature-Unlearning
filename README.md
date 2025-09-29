@@ -7,7 +7,6 @@
 #### NeurIPS 2024
 
 [![Paper](https://img.shields.io/badge/cs.CV-arxiv:2312.05849-B31B1B.svg)]((https://arxiv.org/abs/2405.17462))
-[![Page Views Count](https://badges.toozhao.com/badges/01J9P2R033FHASG7RVP6QSTE3P/green.svg)](https://badges.toozhao.com/stats/01J9P2R033FHASG7RVP6QSTE3P "Get your own page views count badge on badges.toozhao.com")
 
 #### (Released on October 08, 2024)
 
